@@ -1,0 +1,27 @@
+<cinemas>
+	<cinema name="Zenon" seats="110">
+		
+		<film name="Amazon"/>
+	
+	</cinema>
+	<cinema name="Mir" seats="100">
+		
+		<film name="Annihilation"/>
+		<film name="Mandy"/>
+		<film name="Rider"/>
+
+	</cinema>
+	<cinema name="Pobeda" seats="120">
+		
+		<film name="Mandy"/>
+		<film name="Rider"/>
+		<film name="Love"/>
+	
+	</cinema>
+	<cinema name="Kyiv" seats="90">
+		
+		<film name="Rider"/>
+		<film name="Amazon"/>
+	
+	</cinema>
+</cinemas>
