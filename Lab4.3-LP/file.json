@@ -1,0 +1,34 @@
+[
+  {
+    "city":"New-York",
+    "quantity":472
+  },
+  {
+    "city":"Minsk",
+    "quantity":29
+  },
+  {
+    "city":"London",
+    "quantity":45
+  },
+  {
+    "city":"Kyiv",
+    "quantity":52
+  },
+  {
+    "city":"Moskow",
+    "quantity":233
+  },
+  {
+    "city":"Berlin",
+    "quantity":173
+  },
+  {
+    "city":"Athens",
+    "quantity":161pkp
+  },
+  {
+    "city":"Kharkiv",
+    "quantity":10
+  }
+]
