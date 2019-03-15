@@ -1,0 +1,9 @@
+2 1 Mordan' Evgenij Igorevich
+3 2 Sadovskij Pavel Mihajlovich
+1 2 Z Konstantin Evgen'evich
+2 2 Musa-zade Ajdyn Ruslan-Goly
+3 2 Prokopenya Maksim Sergeevich
+1 2 Savinkov Dmitrij Pavlovich
+3 1 Palyuhovich Anton Adamovich
+2 1 Kulich Svyatoslav Petrovich
+1 2 Vihor Konstantin Evgen'evich
