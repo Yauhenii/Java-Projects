@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="astyle.css">
+</head>
+
+<body>
+    <img src="1.jpg" class="leftimg" width="800" height="700">
+    <img src="//dyl80ryjxr1ke.cloudfront.net/p/assets/images/clv-logo_902def84491bbb757f91ebc1e09f6ca1.svg" alt="Cedar Lake Ventures logo">
+    <h1 align="center"> Регистрация на путевку в летний лагерь "Армия"</h1>
+    <h2 align="center">Заполните форму для участия в программе</h2>
+    <form enctype="multipart/form-data" method="post">
+        <table>
+            <tr>
+                <td>
+                    Имя:
+                </td>
+                <td>
+                    <input type="text" required placeholder="Ваше имя">
+                </td>
+                <td>
+                    Отчество:
+                </td>
+                <td>
+                    <input type="text" required placeholder="Ваше отчество">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Фамилия:
+                </td>
+                <td>
+                    <input type="text" required placeholder="Ваша фамилия">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Страна проживания:
+                </td>
+                <td>
+                    <select name="country">
+                            <option>Выберите страну проживания</option>
+                            <option value="Россия">Россия</option> 
+                            <option value="Украина">Украина</option> 
+                            <option value="Беларусь">Беларусь</option> 
+                </select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Выберите пол:
+                </td>
+                <td>
+                    <input type="radio" name="sex" value="Мужской" checked="true">Мужской
+                    <input type="radio" name="sex" value="Женский">Женский
+                </td>
+            </tr>
+        </table>
+        <h3 align="center">Личное фото</h3>
+
+        <p><input type="file" name="f">
+        </p>
+
+        <h3 align="center">Мотивационное письмо</h3>
+        <textarea> 
+    
+    </textarea>
+        <input type="image" src="2.png" width="40" height="40" />
+        <input type="image" src="3.png" width="40" height="40" />
+    </form>
+    <li><a href="../index.html">Back to menu</a></li>
+</body>
+
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="../styles/style.css">
+    <script src="../scripts/menu.js" onload="main()" defer></script>
+</head>
+
+<body>
+    <a href="../pages/main-page.html"><img src="../resources/logo-circle.png" width="100" height="100" class="leftimg"></a>
+    <canvas id="c1" width="690" height="100"></canvas>
+    <h2 align="center">Заполните форму для того, чтобы забрать питомца</h2>
+    <form enctype="multipart/form-data" method="post">
+        <table class="noBorder">
+            <tr>
+                <td>
+                    Имя:
+                </td>
+                <td>
+                    <input type="text" required placeholder="Ваше имя">
+                </td>
+                <td>
+                    Отчество:
+                </td>
+                <td>
+                    <input type="text" required placeholder="Ваше отчество">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Фамилия:
+                </td>
+                <td>
+                    <input type="text" required placeholder="Ваша фамилия">
+                </td>
+                <td>
+                    Номер телефона:
+                </td>
+                <td>
+                    <input type="text" required placeholder="Ваш номер телефона">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Питомец:
+                </td>
+                <td>
+                    <select name="pet">
+                            <option>Выберите питомца</option>
+                            <option value="Барсик, кот">Барсик</option> 
+                            <option value="Юзик, пес">Юзик</option> 
+                            <option value="Соня, щенок">Соня</option> 
+                            <option value="Винтик, пес">Винтик</option> 
+                </select>
+                    <td>
+                        Почта:
+                    </td>
+                    <td>
+                        <input type="text" required placeholder="Ваша электронная почта">
+                    </td>
+                </td>
+            </tr>
+        </table>
+        <h3 align="center">Расскажите о себе</h3>
+        <textarea> 
+    
+    </textarea>
+        <h4 align="left"> Или прикрепите файл с текстом</h4>
+        <p><input type="file" name="f">
+        </p>
+
+    </form>
+    <h4 align="left"> Пришлите нам Вашу заявку</h4>
+    <input type="button" value="Выслать форму" />
+    <footer>
+        © 2018-2019. Международное благотворительное общественное объединение помощи животным "Ари". Наш email
+        <a href="mailto:admin@ari.by">admin@ari.by</a>.
+    </footer>
+</body>
+
+</html>
