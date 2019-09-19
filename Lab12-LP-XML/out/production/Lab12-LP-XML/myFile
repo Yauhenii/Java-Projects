@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student id="123" city="Molodechno">
+        <surname>Washington</surname>
+        <course>1</course>
+        <group>1</group>
+    </student>
+    <student id="432" city="Fanipol">
+        <surname>Harrison</surname>
+        <course>2</course>
+        <group>1</group>
+    </student>
+    <student id="543" city="Polotsk">
+        <surname>Taylor</surname>
+        <course>1</course>
+        <group>2</group>
+    </student>
+    <student id="132" city="Vitebsk">
+        <surname>Lincoln</surname>
+        <course>3</course>
+        <group>1</group>
+    </student>
+    <student id="221" city="Brest">
+        <surname>Roosevelt</surname>
+        <course>1</course>
+        <group>1</group>
+    </student>
+    <student id="329" city="Brest">
+        <surname>Wilson</surname>
+        <course>1</course>
+        <group>2</group>
+    </student>
+    <student id="832" city="Borisov">
+        <surname>Hoover</surname>
+        <course>3</course>
+        <group>2</group>
+    </student>
+    <student id="463" city="Gomel">
+        <surname>Truman</surname>
+        <course>2</course>
+        <group>2</group>
+    </student>
+    <student id="321" city="Minsk">
+        <surname>Truman</surname>
+        <course>2</course>
+        <group>1</group>
+    </student>
+    <student id="742" city="Grodno">
+        <surname>Kennedy</surname>
+        <course>1</course>
+        <group>2</group>
+    </student>
+    <student id="142" city="Lepel">
+        <surname>Kennedy</surname>
+        <course>3</course>
+        <group>2</group>
+    </student>
+    <student id="987" city="Polotsk">
+        <surname>Kennedy</surname>
+        <course>2</course>
+        <group>1</group>
+    </student>
+    <student id="44" city="Brest">
+        <surname>fg</surname>
+        <course>2</course>
+        <group>1</group>
+    </student>
+</students>
